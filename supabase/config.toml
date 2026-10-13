@@ -1,0 +1,7 @@
+project_id = "tswopzusnqbyakkjkefv"
+
+[functions.process-easypaisa-payment]
+verify_jwt = false
+
+[functions.verify-easypaisa-payment]
+verify_jwt = false
